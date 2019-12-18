@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-using-LSTM-with-PyTorch
+# Stock-Price-Prediction-on-Bitcoin-trading-data-using-LSTM-with-PyTorch
 
 Predict volume weighted average price(VWAP) with LSTM
 
