@@ -17,6 +17,15 @@ https://www.investopedia.com/terms/v/vwap.asp
 Why Binance and bitmex?
 
 https://medium.com/swlh/retrieving-full-historical-data-for-every-cryptocurrency-on-binance-bitmex-using-the-python-apis-27b47fd8137f
+
+What is security price in trading?
+
+https://www.quora.com/What-is-the-meaning-of-security-price-in-trading
+
+Day Trading ?
+
+https://towardsdatascience.com/machine-learning-for-day-trading-27c08274df54
+
             
             
 
