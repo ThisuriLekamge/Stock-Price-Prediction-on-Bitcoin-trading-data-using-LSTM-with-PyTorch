@@ -12,6 +12,8 @@ https://towardsdatascience.com/lstm-for-time-series-prediction-de8aeb26f2ca
 
 https://en.wikipedia.org/wiki/Volume-weighted_average_price
 
+https://www.investopedia.com/terms/v/vwap.asp
+
 Why Binance and bitmex?
 
 https://medium.com/swlh/retrieving-full-historical-data-for-every-cryptocurrency-on-binance-bitmex-using-the-python-apis-27b47fd8137f
