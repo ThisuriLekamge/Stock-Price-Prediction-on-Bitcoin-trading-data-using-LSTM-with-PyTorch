@@ -16,6 +16,8 @@ https://www.investopedia.com/terms/v/vwap.asp
 
 https://arxiv.org/abs/1506.03099
 
+https://towardsdatascience.com/financial-machine-learning-part-0-bars-745897d4e4ba
+
 Why Binance and bitmex?
 
 https://medium.com/swlh/retrieving-full-historical-data-for-every-cryptocurrency-on-binance-bitmex-using-the-python-apis-27b47fd8137f
